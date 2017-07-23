@@ -1,6 +1,6 @@
 # Twitter.cr
 
-Access the Twitter API from your [Crystal][http://crystal-lang.org/] projects.
+Access the Twitter API from your [Crystal][crystal] projects.
 
 [![Build Status](https://travis-ci.org/watzon/twitter.cr.svg?branch=master)][travis]
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)][license]
