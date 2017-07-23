@@ -17,7 +17,7 @@ describe Twitter::REST::Client do
   end
 
   describe "#get" do
-    pending "executes an HTTP GET" do
+    it "executes an HTTP GET" do
       client = Twitter::REST::Client.new("CK", "CS", "AT", "AS", "UA")
       path   = "/1.1/users/show.json"
       options = {"screen_name" => "sferik"}
