@@ -12,6 +12,7 @@ module Twitter
 
       def mentions_timeline(options = {} of String => String)
         response = get("/1.1/statuses/mentions_timeline.json", options)
+        puts response.to_s[22300..-1]
         Array(Twitter::Tweet).from_json(response)
       end
 
