@@ -2,4 +2,6 @@
 .deps/
 .deps.lock
 libs/
-NOTES.md
+.notes
+sublime-*
+.idea

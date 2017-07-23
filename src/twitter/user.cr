@@ -45,6 +45,5 @@ module Twitter
       utc_offset:                         {type: Int32, nilable: true},
       verified:                           Bool,
     })
-    def_equals id
   end
 end

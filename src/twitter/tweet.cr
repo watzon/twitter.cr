@@ -33,9 +33,8 @@ module Twitter
       source:                    String,
       text:                      String,
       truncated:                 Bool,
-      user:                      {type: Twitter::User, nilable: true},
+      user:                      {type: User, nilable: true},
     })
-    def_equals id
   end
 
   class Entities
