@@ -2,7 +2,7 @@
 
 Access the Twitter API from your [Crystal][http://crystal-lang.org/] projects.
 
-[![Build Status](https://travis-ci.org/watzon/twitter.cr.svg&branch=master)][travis]
+[![Build Status](https://travis-ci.org/watzon/twitter.cr.svg?branch=master)][travis]
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)][license]
 [![Crystal](https://img.shields.io/badge/Language-Crystal-lightgrey.svg)][crystal]
 
